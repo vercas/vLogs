@@ -1,4 +1,4 @@
-# vLogs
+# vLogs [![Build status](https://ci.appveyor.com/api/projects/status/qit1nkvii2qi22h8?svg=true)](https://ci.appveyor.com/project/vercas/vlogs)
 Portable logging library for .NET
 
 ---
